@@ -22,7 +22,7 @@
         <spring.cloud.kubernetes.version>0.1.6</spring.cloud.kubernetes.version>
 
         <h2db.version>1.4.196</h2db.version>
-        <springfox.version>2.6.1</springfox.version>
+        <springfox.version>2.10.0</springfox.version>
         <logback.kafka.appender.version>0.1.0</logback.kafka.appender.version>
 
         <maven-jar-plugin.version>3.0.2</maven-jar-plugin.version>
